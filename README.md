@@ -1,5 +1,8 @@
 # UAS-NAGIN-CAFE
 
+Deskripsi :
+ just an ordinary cafe.
+
  PEMBAGIAN :
 1.	I Gede Bagus Arya Merta Tika (21101153) (Koordinator)
 Mengambil Bagian : 
